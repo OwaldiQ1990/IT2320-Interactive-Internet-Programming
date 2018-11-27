@@ -1,0 +1,24 @@
+
+jQuery Traversal:
+
+In this assignment you will implement additional functionality to Week 8 code.
+
+You can update the html and css if needed.
+
+Code has to use the mentioned jquery methods. For this assignment, demonstrate how to implement the following for element with id= wrapperSection. Refresh the page everytime want to try a functionality so that the styles are reset back to how they were before. Otherwise write code to reset the styles between each button click.
+
+next()
+nextAll()
+nextUntil()
+closest()
+
+prev()
+prevAll()
+prevUntil()
+
+first()
+last()
+filter()
+not()
+
+slice()

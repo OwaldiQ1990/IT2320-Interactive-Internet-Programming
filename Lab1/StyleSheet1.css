@@ -1,0 +1,78 @@
+﻿
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,600,600i,700,700i');
+
+
+
+body {
+    margin: 0;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 8px 0px 6px 40px;
+    height: 45px;
+}
+header h1{
+
+    display: inline;
+    font-family: 'Oswald',sans-serif;
+    font-weight: 400;
+    font-size:30px;
+    float:left;
+    margin-top:0px;
+    margin-right:10px;
+}
+nav ul {
+    display: inline;
+    padding: 0px;
+    float:left;
+}
+    nav ul li {
+        display: inline-block;
+        list-style-type: none;
+        color: white;
+        float: left;
+        margin-left: 12px;
+     
+    }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+         
+        }
+#nav {
+    font-family: 'Montserrat', sans-serif;
+  
+}
+.homeorange{
+    background-color: orange;
+    padding: 30PX 10PX 16PX 10PX;
+}
+.divider{
+    background-color:orange;
+    height:3px;
+}
+.homeblack:hover { 
+    background-color: aqua;
+    padding: 30px 10px 16px 10px;
+}
+.fwimage1 {
+    background-image: url("homeCleveland.jpg");
+   
+    background-repeat: no-repeat repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+header h2 {
+    display: inline;
+    font-family: 'Oswald',sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+}

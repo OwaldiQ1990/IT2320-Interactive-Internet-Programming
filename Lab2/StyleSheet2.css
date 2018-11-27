@@ -1,0 +1,19 @@
+﻿body 
+    h1
+     {
+    color: red;
+    background-color: white;
+}
+
+button  {
+    background-color: Highlight;
+
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+}
+
